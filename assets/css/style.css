@@ -109,3 +109,41 @@ video {
 .fs-14{
     font-size: 14px;
 }
+
+.mostly-used-color-text{
+    color: #9f9f9f;
+}
+
+.slider-content p{
+    line-height: 30px;
+}
+
+.plan-detail button{
+    padding: 10px 20px;
+}
+
+.arrow{
+    position: absolute;
+    left: -55px;
+}
+
+.line-height-30{
+    line-height: 30px;
+}
+
+.line-height-40{
+    line-height: 40px;
+}
+
+.border-bottom-1{
+    border-bottom: 1px solid #9f9f9f3b !important;
+}
+
+.progress-1{
+    height: 10px;
+}
+
+.play-icon{
+    top: 40%;
+    left: 40%;
+}
